@@ -20,8 +20,8 @@ Podstawowym elementem gry są bitwy, w których gracz musi skutecznie bronić sw
 
 Gra posiada prostą, ale bardzo charakterystyczną grafikę, która idealnie oddaje klimat średniowiecznych oblężeń i walk. Dźwięk i muzyka są dopasowane do atmosfery gry.
 
-![Twierdza Krzyżowiec - Walka](https://example.com/twierdza_krzyzowiec_walka.jpg)
-![Twierdza Krzyżowiec - Zamek](https://example.com/twierdza_krzyzowiec_zamek.jpg)
+![Twierdza Krzyżowiec - Walka]([https://example.com/twierdza_krzyzowiec_walka.jpg](https://static.muve.pl/uploads/product-gallery/0146/9332/ss-1697adcf07a1465bf520d2d233e57bdcd18fe141-1920x1080.jpg))
+![Twierdza Krzyżowiec - Zamek]([https://example.com/twierdza_krzyzowiec_zamek.jpg](https://i.ytimg.com/vi/2eaKT_qRnQE/maxresdefault.jpg))
 
 ## Linki:
 - [Oficjalna strona Twierdzy Krzyżowiec](https://www.fireflyworlds.com/)
