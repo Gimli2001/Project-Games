@@ -20,8 +20,8 @@ Gra zawiera szeroką gamę dinozaurów, które gracze mogą oswajać, trenować 
 
 Ark oferuje piękne i różnorodne mapy, które obejmują dżungle, pustynie, góry i podwodne lokacje, w których gracze mogą eksplorować i odkrywać tajemnice.
 
-![Ark - Dinozaur](https://example.com/ark_dinozaur.jpg)
-![Ark - Budowanie bazy](https://example.com/ark_baza.jpg)
+![Ark - Dinozaur]([https://example.com/ark_dinozaur.jpg](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/11/ark-survival-ascended-yutyrannus-roaring.jpg))
+![Ark - Budowanie bazy]([https://example.com/ark_baza.jpg](https://i.pinimg.com/originals/7b/21/ea/7b21eaaee89a5d2f544961d915636141.jpg))
 
 ## Linki:
 - [Oficjalna strona Ark: Survival Evolved](https://survivetheark.com/)
