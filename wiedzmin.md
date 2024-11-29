@@ -21,7 +21,7 @@ Gra oferuje ogromny, otwarty świat, który możemy odkrywać zarówno pieszo, j
 Wiedźmin 3 jest uznawany za jeden z najlepiej wyglądających tytułów RPG. Oprawa graficzna oraz ścieżka dźwiękowa są na najwyższym poziomie.
 
 ![Wiedźmin 3 - Walka z potworem]([https://example.com/wiedzmin3_walka.jpg](https://www.google.pl/url?sa=i&url=https%3A%2F%2Fwww.dziennikwschodni.pl%2Fgry%2Fwiedzmin-3-dziki-gon-geralt-i-potwory-wideo%2Cn%2C1000017903.html&psig=AOvVaw1ZzCwhhZrGV0i4Qe0sHL3s&ust=1732964776478000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDK7oSzgYoDFQAAAAAdAAAAABAE))
-![Wiedźmin 3 - Pejzaż](https://example.com/wiedzmin3_pejzaz.jpg)
+![Wiedźmin 3 - Pejzaż]([https://example.com/wiedzmin3_pejzaz.jpg](https://www.google.pl/url?sa=i&url=https%3A%2F%2Fwww.gry-online.pl%2Fporadniki%2Fwiedzmin-3-dziki-gon%2Fsuper-turbo-lighting-mod%2Fz8198e1&psig=AOvVaw2dKqbMU2Ts67yfitwkDOv5&ust=1732964847293000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjphKOzgYoDFQAAAAAdAAAAABAE))
 
 ## Linki:
 - [Oficjalna strona Wiedźmina 3](https://www.thewitcher.com/en/witcher3)
